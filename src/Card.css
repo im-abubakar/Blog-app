@@ -1,0 +1,10 @@
+.custom-button {
+    background-color: #FF7F50;
+    border-color: #FF7F50; /* Optional: Change border color to match background */
+  }
+  
+  .custom-button:hover {
+    background-color: #FF6347; /* Change color on hover if desired */
+    border-color: #FF6347; /* Optional: Change border color on hover */
+  }
+  
